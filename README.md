@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I am a graduated student from the Indian Institute
 ---
 
 ### Projects and Experience
-
+- you can see my repos on github
 
 
 ### Skills
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I am a graduated student from the Indian Institute
 - SQL, C++, HTML, JavaScript, Python, Basic Haskell, MySQL
 
 **Frameworks and Libraries:**
-- React.js, Docker, Matplotlib, Seaborn, Node.js, Bootstrap, Tailwind CSS, Mongoose
+- React.js, Docker, Matplotlib, Seaborn, Node.js, Bootstrap, Tailwind CSS, Mongoose, Netlify, render
 
 **Financial Skills:**
 - Macro and Micro Economics, Capital Markets, Basic understanding of trading
