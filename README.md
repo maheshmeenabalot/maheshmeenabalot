@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I am a graduated student from the Indian Institute
 - Advanced AI algorithms and neural networks
 - Advanced backend development with Node.js and Docker
 - Frontend frameworks like React.js and state management libraries
-- Financial markets and trading strategies
 
 ## 💞️ I’m looking to collaborate on ...
 - Real-time messaging and conversation applications
