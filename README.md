@@ -46,9 +46,6 @@ Welcome to my GitHub profile! I am a graduated student from the Indian Institute
 **Financial Skills:**
 - Macro and Micro Economics, Capital Markets, Basic understanding of trading
 
-**Soft Skills:**
-- Proactivity, Attention to Detail, Discipline, Communication Skills, Adaptability, Emotional Intelligence
-
 ### Achievements
 - Hackerrank Problem Solving (Intermediate) and SQL (Advanced) Certification (2022)
 - Achieved personal highest ranking of 2746 / 98,442 as a top 1 percentile Datasets Expert on Kaggle (2023)
