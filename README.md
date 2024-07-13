@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I am a graduated student from the Indian Institute
 - LinkedIn: [linkedin.com/in/meenamahesh](https://www.linkedin.com/in/meenamahesh/)
 - GitHub: [github.com/maheshmeenabalot](https://github.com/maheshmeenabalot)
 
-## ⚡ Fun fact:
+## ⚡ Extra Things to Know:
 - I have a strong interest in trading and have a solid foundation in understanding capital markets and economics.
 - I enjoy playing cricket and led IIT Goa's cricket team in the 55th Inter IIT Sports Meet.
 
